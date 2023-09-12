@@ -1,0 +1,34 @@
+#container{
+    width: 900px;
+    padding: 100px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color:crimson;
+}
+.bloque1{
+    background-color:chartreuse;
+    padding: 15px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.bloque2{
+    background-color: coral;
+    padding: 15px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+.bloque3{
+    background-color: darkcyan;
+    padding: 15px;
+    display: flex;
+    justify-content:space-evenly;
+    
+}
